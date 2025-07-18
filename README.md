@@ -1,0 +1,2 @@
+# FPGA_CNN_RTL
+利用verilog在FPGA上实现一个CNN加速器
